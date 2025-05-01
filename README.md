@@ -24,3 +24,17 @@ Descriptions of the three primary pages are:
 - Simple Checkout View
 
 Your ability to make your application user-friendly is necessary because it eases software usage for users
+
+Color Styles:
+- Primary: #FF5A5F
+- Secondary: #008489
+- Background: #FFFFFF
+- Text: #222222
+- Secondary Text: #717171
+
+Typography:
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px-32px
+- Secondary Text: Circular, Book (400), 14px
+
+Once you able to find the design properties, it can help fasten building or development process instead of always search for each corresponding design properties
