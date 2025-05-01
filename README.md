@@ -50,3 +50,22 @@ Once you able to find the design properties, it can help fasten building or deve
 - Scrum Master: Facilitates agile processes, removes blockers, organizes meetings.
 
 A project manager ensures that a project is planned very well and executed fully before project deadlines taking into consideration budget constraints. A frontend developer,on the other hand, ensures that the websites is user-friendly taking into consideration its responsiveness on variety of screens. A backend developer is responsible for building the business logic, building APIs and managing the databases. Designer is responsible for creating a blueprint of how an abstract idea can be brought to reality by creating a set of wireframes and mockups.
+
+# UI Component Patterns
+**Navbar**
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
+**Property Card**
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
+**Footer**
+- Site links
+- Company information
+- Social media links
+- Copyright information
